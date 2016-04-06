@@ -1,0 +1,10 @@
+exclude:
+  - "README.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - ".gitignore"
+  - ".editorconfig"
+  - "vendor"
+
+safe: true
+lsi: false
